@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 3. Animals\bin\Debug\Problem_3.Animals.exe.config
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 3. Animals\bin\Debug\Problem_3.Animals.exe
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 3. Animals\bin\Debug\Problem_3.Animals.pdb
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 3. Animals\obj\Debug\Problem_3.Animals.exe
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 3. Animals\obj\Debug\Problem_3.Animals.pdb
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 3. Animals\obj\Debug\Problem 3. Animals.csprojResolveAssemblyReference.cache

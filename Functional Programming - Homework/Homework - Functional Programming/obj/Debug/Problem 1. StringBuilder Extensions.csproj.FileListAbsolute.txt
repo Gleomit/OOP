@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Functional Programming\Homework - Functional Programming\bin\Debug\Homework - Functional Programming.exe.config
+F:\OOP Homeworks\Homework - Functional Programming\Homework - Functional Programming\bin\Debug\Homework - Functional Programming.exe
+F:\OOP Homeworks\Homework - Functional Programming\Homework - Functional Programming\bin\Debug\Homework - Functional Programming.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Homework - Functional Programming\obj\Debug\Homework - Functional Programming.exe
+F:\OOP Homeworks\Homework - Functional Programming\Homework - Functional Programming\obj\Debug\Homework - Functional Programming.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Homework - Functional Programming\obj\Debug\Problem 1. StringBuilder Extensions.csprojResolveAssemblyReference.cache

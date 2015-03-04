@@ -1,0 +1,2 @@
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 1. School\bin\Debug\Problem_1.School.exe.config
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 1. School\obj\Debug\Problem 1. School.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\bin\Debug\Problem_13.Students_by_Groups.exe.config
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\bin\Debug\Problem_13.Students_by_Groups.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\bin\Debug\Problem_13.Students_by_Groups.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\bin\Debug\Problem_3.Class_Student.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\bin\Debug\Problem_3.Class_Student.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\obj\Debug\Problem 13.  Students by Groups.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\obj\Debug\Problem_13.Students_by_Groups.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 13.  Students by Groups\obj\Debug\Problem_13.Students_by_Groups.pdb

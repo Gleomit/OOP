@@ -1,0 +1,2 @@
+F:\OOP Homeworks\Homework - Defining Classes\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+F:\OOP Homeworks\Homework - Defining Classes\Problem 1. Persons\obj\Debug\Problem 1. Persons.csprojResolveAssemblyReference.cache

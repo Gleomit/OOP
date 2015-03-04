@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Functional Programming\Problem 2. Custom LINQ Extension\bin\Debug\Problem_2.Custom_LINQ_Extension.exe.config
+F:\OOP Homeworks\Homework - Functional Programming\Problem 2. Custom LINQ Extension\obj\Debug\Problem 2. Custom LINQ Extension Methods.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Functional Programming\Problem 2. Custom LINQ Extension\bin\Debug\Problem_2.Custom_LINQ_Extension.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 2. Custom LINQ Extension\bin\Debug\Problem_2.Custom_LINQ_Extension.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 2. Custom LINQ Extension\obj\Debug\Problem_2.Custom_LINQ_Extension.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 2. Custom LINQ Extension\obj\Debug\Problem_2.Custom_LINQ_Extension.pdb

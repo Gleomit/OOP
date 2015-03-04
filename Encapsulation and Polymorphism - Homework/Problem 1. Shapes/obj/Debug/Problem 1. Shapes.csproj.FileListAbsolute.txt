@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Encapsulation and Polymorphism\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe.config
+F:\OOP Homeworks\Homework - Encapsulation and Polymorphism\Problem 1. Shapes\obj\Debug\Problem 1. Shapes.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Encapsulation and Polymorphism\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.exe
+F:\OOP Homeworks\Homework - Encapsulation and Polymorphism\Problem 1. Shapes\bin\Debug\Problem_1.Shapes.pdb
+F:\OOP Homeworks\Homework - Encapsulation and Polymorphism\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.exe
+F:\OOP Homeworks\Homework - Encapsulation and Polymorphism\Problem 1. Shapes\obj\Debug\Problem_1.Shapes.pdb

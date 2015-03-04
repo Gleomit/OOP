@@ -1,0 +1,8 @@
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\bin\Debug\Problem_11.Weak_Students.exe.config
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\bin\Debug\Problem_11.Weak_Students.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\bin\Debug\Problem_11.Weak_Students.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\bin\Debug\Problem_3.Class_Student.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\bin\Debug\Problem_3.Class_Student.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\obj\Debug\Problem 11. Weak Students.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\obj\Debug\Problem_11.Weak_Students.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 11. Weak Students\obj\Debug\Problem_11.Weak_Students.pdb

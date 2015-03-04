@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Multimedia Shop - OOP\Multimedia Shop - OOP\bin\Debug\Multimedia Shop - OOP.exe.config
+F:\OOP Homeworks\Multimedia Shop - OOP\Multimedia Shop - OOP\obj\Debug\Multimedia Shop - OOP.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Multimedia Shop - OOP\Multimedia Shop - OOP\bin\Debug\Multimedia Shop - OOP.exe
+F:\OOP Homeworks\Multimedia Shop - OOP\Multimedia Shop - OOP\bin\Debug\Multimedia Shop - OOP.pdb
+F:\OOP Homeworks\Multimedia Shop - OOP\Multimedia Shop - OOP\obj\Debug\Multimedia Shop - OOP.exe
+F:\OOP Homeworks\Multimedia Shop - OOP\Multimedia Shop - OOP\obj\Debug\Multimedia Shop - OOP.pdb

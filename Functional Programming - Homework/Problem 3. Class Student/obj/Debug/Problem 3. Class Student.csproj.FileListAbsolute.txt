@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Functional Programming\Problem 3. Class Student\obj\Debug\Problem 3. Class Student.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Functional Programming\Problem 3. Class Student\bin\Debug\Problem_3.Class_Student.exe.config
+F:\OOP Homeworks\Homework - Functional Programming\Problem 3. Class Student\bin\Debug\Problem_3.Class_Student.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 3. Class Student\bin\Debug\Problem_3.Class_Student.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 3. Class Student\obj\Debug\Problem_3.Class_Student.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 3. Class Student\obj\Debug\Problem_3.Class_Student.pdb

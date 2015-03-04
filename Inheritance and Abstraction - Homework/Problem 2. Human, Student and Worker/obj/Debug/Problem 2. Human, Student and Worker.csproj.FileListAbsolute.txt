@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 2. Human, Student and Worker\bin\Debug\Problem_2.Human__Student_and_Worker.exe.config
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 2. Human, Student and Worker\bin\Debug\Problem_2.Human__Student_and_Worker.exe
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 2. Human, Student and Worker\bin\Debug\Problem_2.Human__Student_and_Worker.pdb
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 2. Human, Student and Worker\obj\Debug\Problem 2. Human, Student and Worker.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 2. Human, Student and Worker\obj\Debug\Problem_2.Human__Student_and_Worker.exe
+F:\OOP Homeworks\Homework - Inheritance and Abstraction\Problem 2. Human, Student and Worker\obj\Debug\Problem_2.Human__Student_and_Worker.pdb

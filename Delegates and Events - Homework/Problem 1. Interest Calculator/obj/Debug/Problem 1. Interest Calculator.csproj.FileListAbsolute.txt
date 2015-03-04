@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 1. Interest Calculator\bin\Debug\Problem_1.Interest_Calculator.exe.config
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 1. Interest Calculator\obj\Debug\Problem 1. Interest Calculator.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 1. Interest Calculator\bin\Debug\Problem_1.Interest_Calculator.exe
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 1. Interest Calculator\bin\Debug\Problem_1.Interest_Calculator.pdb
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 1. Interest Calculator\obj\Debug\Problem_1.Interest_Calculator.exe
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 1. Interest Calculator\obj\Debug\Problem_1.Interest_Calculator.pdb

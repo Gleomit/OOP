@@ -1,0 +1,2 @@
+F:\OOP Homeworks\Homework - Static Members and Namespaces\Problem 1. Point3D\bin\Debug\Problem_1.Point3D.exe.config
+F:\OOP Homeworks\Homework - Static Members and Namespaces\Problem 1. Point3D\obj\Debug\Problem 1. Point3D.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\bin\Debug\Problem_14.Students_Joined_to_Specialties.exe.config
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\obj\Debug\Problem 14. Students Joined to Specialties.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\bin\Debug\Problem_14.Students_Joined_to_Specialties.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\bin\Debug\Problem_14.Students_Joined_to_Specialties.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\bin\Debug\Problem_3.Class_Student.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\bin\Debug\Problem_3.Class_Student.pdb
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\obj\Debug\Problem_14.Students_Joined_to_Specialties.exe
+F:\OOP Homeworks\Homework - Functional Programming\Problem 14. Students Joined to Specialties\obj\Debug\Problem_14.Students_Joined_to_Specialties.pdb

@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Exception Handling\Problem 1. Square Root\bin\Debug\Problem_1.Square_Root.exe.config
+F:\OOP Homeworks\Homework - Exception Handling\Problem 1. Square Root\bin\Debug\Problem_1.Square_Root.exe
+F:\OOP Homeworks\Homework - Exception Handling\Problem 1. Square Root\bin\Debug\Problem_1.Square_Root.pdb
+F:\OOP Homeworks\Homework - Exception Handling\Problem 1. Square Root\obj\Debug\Problem_1.Square_Root.exe
+F:\OOP Homeworks\Homework - Exception Handling\Problem 1. Square Root\obj\Debug\Problem_1.Square_Root.pdb
+F:\OOP Homeworks\Homework - Exception Handling\Problem 1. Square Root\obj\Debug\Problem 1. Square Root.csprojResolveAssemblyReference.cache

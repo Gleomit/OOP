@@ -1,0 +1,5 @@
+F:\OOP Homeworks\Homework - Other Types in OOP\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe.config
+F:\OOP Homeworks\Homework - Other Types in OOP\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.exe
+F:\OOP Homeworks\Homework - Other Types in OOP\Problem 2. Fraction Calculator\bin\Debug\Problem_2.Fraction_Calculator.pdb
+F:\OOP Homeworks\Homework - Other Types in OOP\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.exe
+F:\OOP Homeworks\Homework - Other Types in OOP\Problem 2. Fraction Calculator\obj\Debug\Problem_2.Fraction_Calculator.pdb

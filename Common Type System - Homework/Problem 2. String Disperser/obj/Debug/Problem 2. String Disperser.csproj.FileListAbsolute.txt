@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Common Type System\Problem 2. String Disperser\bin\Debug\Problem_2.String_Disperser.exe.config
+F:\OOP Homeworks\Homework - Common Type System\Problem 2. String Disperser\obj\Debug\Problem 2. String Disperser.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Common Type System\Problem 2. String Disperser\bin\Debug\Problem_2.String_Disperser.exe
+F:\OOP Homeworks\Homework - Common Type System\Problem 2. String Disperser\bin\Debug\Problem_2.String_Disperser.pdb
+F:\OOP Homeworks\Homework - Common Type System\Problem 2. String Disperser\obj\Debug\Problem_2.String_Disperser.exe
+F:\OOP Homeworks\Homework - Common Type System\Problem 2. String Disperser\obj\Debug\Problem_2.String_Disperser.pdb

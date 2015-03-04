@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Defining Classes\Problem 4. Software University Learning System\bin\Debug\Problem_4.Software_University_Learning_System.exe.config
+F:\OOP Homeworks\Homework - Defining Classes\Problem 4. Software University Learning System\bin\Debug\Problem_4.Software_University_Learning_System.exe
+F:\OOP Homeworks\Homework - Defining Classes\Problem 4. Software University Learning System\bin\Debug\Problem_4.Software_University_Learning_System.pdb
+F:\OOP Homeworks\Homework - Defining Classes\Problem 4. Software University Learning System\obj\Debug\Problem_4.Software_University_Learning_System.exe
+F:\OOP Homeworks\Homework - Defining Classes\Problem 4. Software University Learning System\obj\Debug\Problem_4.Software_University_Learning_System.pdb
+F:\OOP Homeworks\Homework - Defining Classes\Problem 4. Software University Learning System\obj\Debug\Problem 4. Software University Learning System.csprojResolveAssemblyReference.cache

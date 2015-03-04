@@ -1,0 +1,9 @@
+F:\OOP Homeworks\Homework - Common Type System\Homework - Common Type System\obj\Debug\Problem 1. Customer.csprojResolveAssemblyReference.cache
+F:\OOP Homeworks\Homework - Common Type System\Homework - Common Type System\bin\Debug\Homework - Common Type System.exe.config
+F:\OOP Homeworks\Homework - Common Type System\Homework - Common Type System\bin\Debug\Homework - Common Type System.exe
+F:\OOP Homeworks\Homework - Common Type System\Homework - Common Type System\bin\Debug\Homework - Common Type System.pdb
+F:\OOP Homeworks\Homework - Common Type System\Homework - Common Type System\obj\Debug\Homework - Common Type System.exe
+F:\OOP Homeworks\Homework - Common Type System\Homework - Common Type System\obj\Debug\Homework - Common Type System.pdb
+F:\OOP Homeworks\Homework - Common Type System\Problem 1. Customer\bin\Debug\Homework - Common Type System.exe.config
+F:\OOP Homeworks\Homework - Common Type System\Problem 1. Customer\obj\Debug\Homework - Common Type System.exe
+F:\OOP Homeworks\Homework - Common Type System\Problem 1. Customer\obj\Debug\Homework - Common Type System.pdb

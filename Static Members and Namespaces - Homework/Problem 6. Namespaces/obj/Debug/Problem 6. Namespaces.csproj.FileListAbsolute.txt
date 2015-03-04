@@ -1,0 +1,1 @@
+F:\OOP Homeworks\Homework - Static Members and Namespaces\Problem 6. Namespaces\bin\Debug\Problem_6.Namespaces.exe.config

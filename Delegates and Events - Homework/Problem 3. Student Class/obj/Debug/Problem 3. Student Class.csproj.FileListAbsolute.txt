@@ -1,0 +1,5 @@
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 3. Student Class\bin\Debug\Problem_3.Student_Class.exe.config
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 3. Student Class\bin\Debug\Problem_3.Student_Class.exe
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 3. Student Class\bin\Debug\Problem_3.Student_Class.pdb
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 3. Student Class\obj\Debug\Problem_3.Student_Class.exe
+F:\OOP Homeworks\Homework - Delegates and Events\Problem 3. Student Class\obj\Debug\Problem_3.Student_Class.pdb

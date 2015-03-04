@@ -1,0 +1,6 @@
+F:\OOP Homeworks\Homework - Defining Classes\Problem 3. PC Catalog\bin\Debug\Problem_3.PC_Catalog.exe.config
+F:\OOP Homeworks\Homework - Defining Classes\Problem 3. PC Catalog\bin\Debug\Problem_3.PC_Catalog.exe
+F:\OOP Homeworks\Homework - Defining Classes\Problem 3. PC Catalog\bin\Debug\Problem_3.PC_Catalog.pdb
+F:\OOP Homeworks\Homework - Defining Classes\Problem 3. PC Catalog\obj\Debug\Problem_3.PC_Catalog.exe
+F:\OOP Homeworks\Homework - Defining Classes\Problem 3. PC Catalog\obj\Debug\Problem_3.PC_Catalog.pdb
+F:\OOP Homeworks\Homework - Defining Classes\Problem 3. PC Catalog\obj\Debug\Problem 3. PC Catalog.csprojResolveAssemblyReference.cache
